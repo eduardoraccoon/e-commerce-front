@@ -1,0 +1,22 @@
+.card {
+    width: 18rem
+}
+
+.price {
+    color: rgb(206, 202, 202);
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.container-image{
+    width: 18rem;
+    height: 10rem;
+}
+
+.card-img-top {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
